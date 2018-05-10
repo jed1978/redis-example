@@ -1,0 +1,11 @@
+/Users/jed/Workspace/code/RedisExample/RedisExample/bin/Debug/netcoreapp2.0/RedisExample.deps.json
+/Users/jed/Workspace/code/RedisExample/RedisExample/bin/Debug/netcoreapp2.0/RedisExample.runtimeconfig.json
+/Users/jed/Workspace/code/RedisExample/RedisExample/bin/Debug/netcoreapp2.0/RedisExample.runtimeconfig.dev.json
+/Users/jed/Workspace/code/RedisExample/RedisExample/bin/Debug/netcoreapp2.0/RedisExample.dll
+/Users/jed/Workspace/code/RedisExample/RedisExample/bin/Debug/netcoreapp2.0/RedisExample.pdb
+/Users/jed/Workspace/code/RedisExample/RedisExample/obj/Debug/netcoreapp2.0/RedisExample.csprojResolveAssemblyReference.cache
+/Users/jed/Workspace/code/RedisExample/RedisExample/obj/Debug/netcoreapp2.0/RedisExample.csproj.CoreCompileInputs.cache
+/Users/jed/Workspace/code/RedisExample/RedisExample/obj/Debug/netcoreapp2.0/RedisExample.AssemblyInfoInputs.cache
+/Users/jed/Workspace/code/RedisExample/RedisExample/obj/Debug/netcoreapp2.0/RedisExample.AssemblyInfo.cs
+/Users/jed/Workspace/code/RedisExample/RedisExample/obj/Debug/netcoreapp2.0/RedisExample.dll
+/Users/jed/Workspace/code/RedisExample/RedisExample/obj/Debug/netcoreapp2.0/RedisExample.pdb
